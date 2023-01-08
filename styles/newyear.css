@@ -1,0 +1,73 @@
+* {
+    font-family: 'Work Sans';
+}
+
+.head-container {
+    position: relative;
+    background: url(flat-lay-abstract-composition-with-innovation-elements.jpg);
+    display: flex;
+    
+
+
+}
+.head-item{
+    position: absolute;
+    left: 845px;
+top: 216px;
+}
+.head-title{
+    font-weight: 700;
+    font-size: 65px;
+    color: #151414;
+}
+.head-description{
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+}
+.head-button{
+    background-color: orangered;
+    color: #FFFFFF;
+    border-radius: 5px;
+    border: 0;
+    font-weight: 600;
+font-size: 20px;
+padding: 20px 25px;
+
+}
+.main-container{
+    display: flex;
+    gap: 80px;
+}
+.section-item{
+    position: absolute;
+    left: 862px;
+    top: 1178px;
+    width: 416px;
+height: 400px;
+right: 300px;
+bottom: 1650px;
+margin-bottom: 200px;
+background-color: aliceblue;
+align-items: center;
+
+}
+.section-title{
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+
+}
+.section-description{
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+
+}
+.main-image{
+    position: absolute;
+width: 569px;
+height: 723.3px;
+left: 206px;
+top: 939px;
+}
